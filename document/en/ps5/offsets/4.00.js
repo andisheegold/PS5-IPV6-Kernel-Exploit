@@ -4,7 +4,7 @@ const OFFSET_wk___stack_chk_guard_import = 0x028F9A18; //check
 
 const OFFSET_lk___stack_chk_guard        = 0x00069190; //check
 const OFFSET_lk_pthread_create_name_np   = 0x00001B60; //check
-const OFFSET_lk_pthread_join             = 0x0002FAD0; //check
+const OFFSET_lk_pthread_join             = 0x0002F460; //check
 const OFFSET_lk_pthread_exit             = 0x00020A80; //check
 const OFFSET_lk__thread_list             = 0x000601A8; //check
 
